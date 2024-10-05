@@ -30,9 +30,9 @@ The project is built using **Clean Architecture** to separate concerns and make 
 
 ### Screenshots
 
-| Onboarding Page                             | Car Details Page                              | Car List Page                           | Map Details Page                              |
-| ------------------------------------------- | --------------------------------------------- | --------------------------------------- | --------------------------------------------- |
-| ![Onboarding Page](./assets/onboarding.png) | ![Car Details Page](./assets/car_details.png) | ![Car List Page](./assets/car_list.png) | ![Map Details Page](./assets/map_details.png) |
+| Onboarding Page                                  | Car Details Page                              | Car List Page                           | Map Details Page                              |
+| ------------------------------------------------ | --------------------------------------------- | --------------------------------------- | --------------------------------------------- |
+| ![Onboarding Page](./assets/onboarding_page.png) | ![Car Details Page](./assets/car_details.png) | ![Car List Page](./assets/car_list.png) | ![Map Details Page](./assets/map_details.png) |
 
 ### Project Structure
 
