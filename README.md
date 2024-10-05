@@ -1,4 +1,4 @@
-# Car Rental Application
+# RideSwift - Car Rental Application
 
 This project is a demo car rental application built with Flutter and Firebase, using the Google Maps API for map functionalities. It follows Clean Architecture principles, serving as a practice project to refresh Flutter knowledge.
 
