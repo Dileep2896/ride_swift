@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367994724249",
+    "project_id": "ride-swift-2896",
+    "storage_bucket": "ride-swift-2896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367994724249:android:502527b8c5af907bbebd08",
+        "android_client_info": {
+          "package_name": "com.example.ride_swift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDouv0z39qHNlszizMlpR-SteB2h9tVdcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
